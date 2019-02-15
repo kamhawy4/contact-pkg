@@ -15,4 +15,6 @@
         "psr-4": {
              "Abdo\\Contact\\": "src/"
         }
+  }
+
 }
