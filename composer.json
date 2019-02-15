@@ -1,0 +1,18 @@
+{
+    "name": "abdo/contact",
+    "description": "this wil send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "php-abdulrahman.m",
+            "email": "php-abdulrahman.m@topline.com.sa"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+             "Abdo\\Contact\\": "src/"
+        }
+}
