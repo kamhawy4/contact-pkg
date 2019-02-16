@@ -14,7 +14,13 @@
     "autoload": {
         "psr-4": {
              "Abdo\\Contact\\": "src/"
-        }
+        },"extra": {
+            "laravel": {
+                "providers": [
+                    "Abdo\\Contact\\ContactServiceProvider"
+                ]
+            }
+        },
   }
 
 }
